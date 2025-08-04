@@ -1,6 +1,6 @@
 ## 📊 Dashboard Preview
 
-![Spotify Dashboard](https://github.com/VamshiKunchi/Spotify-Powerbi-Dashboard/blob/main/Image%20Spotify%20Dashboard%20Powerbi.png?raw=true)
+![Spotify Dashboard](https://github.com/Kalyanikhapale/Spotify-Dashboard/blob/main/Image%20Spotify%20Dashboard%20Powerbi.png)
 
 ## 📁 Project Files
 - `Spotify Dashboard.pbix` – Power BI file with DAX measures and visuals.
@@ -21,3 +21,8 @@ Helps music analysts and enthusiasts:
 - Explore streaming trends by artist or genre
 - Identify high-performing tracks
 - Understand duration and popularity relationships
+
+-------
+## Author
+Kalyani Khapale
+[ Data Analyst Enthusiast ]
